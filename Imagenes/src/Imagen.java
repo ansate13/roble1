@@ -23,6 +23,7 @@ public class Imagen {
     	System.out.println("Introduce el nombre de la imagen");
     	nombre=teclado.next();
     	cargarImagen(ruta+nombre);
+    	System.out.println("Hola Juan");
     	
     	
     }
